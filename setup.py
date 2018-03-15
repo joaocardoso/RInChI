@@ -8,7 +8,7 @@ requirements = [
 
 setup(
     name='rinchi_tools',
-    version=1.0.0,
+    version='1.0.0',
     packages=find_packages(),
     install_requires=requirements,
     author='C.H.G. Allen, N.A. Parker, B. Hammond, D.F. Hampshire',
