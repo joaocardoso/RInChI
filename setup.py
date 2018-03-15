@@ -21,5 +21,5 @@ setup(
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Topic :: Scientific/Engineering :: Chemistry',
-        'Programming Language :: Python :: 3],
+        'Programming Language :: Python :: 3'],
 )
